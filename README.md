@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-RITHTOPUP-f97316?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="RITHTOPUP" />
+<img src="https://img.shields.io/badge/-LUCKYTOPUP-f97316?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="RITHTOPUP" />
 
 ### ⚡ Instant game top-up storefront for Cambodia
 
