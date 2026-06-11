@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-RITHTOPUP-f97316?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="RITHTOPUP" />
+<img src="https://img.shields.io/badge/-LUCKYTOPUP-f97316?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="LUCKYTOPUP" />
 
 ### ⚡ Instant game top-up storefront for Cambodia
 
@@ -20,7 +20,7 @@ A production-ready **Next.js 14** platform for selling in-game credits — with 
 
 ## 🎯 What is this?
 
-**RITHTOPUP** lets customers buy Diamonds / UC / Genesis Crystals / game passes using a single KHQR code scannable by **every major Cambodian bank app** — ABA Pay, ACLEDA Pay, Wing, TrueMoney, Chip Mong, Prince Bank, and more.
+**LUCKYTOPUP** lets customers buy Diamonds / UC / Genesis Crystals / game passes using a single KHQR code scannable by **every major Cambodian bank app** — , ACLEDA Pay, and more.
 
 | Customer side | Admin side |
 |---|---|
@@ -454,13 +454,13 @@ Nickname lookup depends on a third-party validation API and can fail intermitten
 
 ## 📄 License
 
-Private — © RITHTOPUP. All rights reserved.
+Private — © LUCKYTOPUP. All rights reserved.
 
 ---
 
 <div align="center">
 
 Built with ⚡ for the Cambodian gaming community.
-Support: **[@rithtopup](https://t.me/rithtopup)** on Telegram.
+Support: **[@LUCKYtopup](https://t.me/sovanreach_chum)** on Telegram.
 
 </div>
